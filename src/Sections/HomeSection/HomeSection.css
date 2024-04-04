@@ -1,0 +1,21 @@
+.homeSection.dark{
+    background-color: rgb(71,71,71);
+    color: white;
+    min-height: 100vh;
+}
+.homeSection.light{
+    background-color: white;
+    color: black;
+    min-height: 100vh;
+}
+.info.light{
+    color: #0065FF;
+}
+
+img{
+    width: 200px;
+    border-radius: 50%;
+}
+
+
+
