@@ -35,7 +35,7 @@ export default class Home extends Component {
                                 team of designers, writers, engineers, PMs and data specialists – amongst others – testing, iterating and optimising <br />
                                 our platforms and products. <br /><br />
 
-                                I've got some work on Dribbble, some previous work at Saga and you can find me over on twitter and sometimes on <br />
+                                I've got some work on Dribbble, some previous work at Saga and you can find me over on instagram and sometimes on <br />
                                 Medium too. I also take too many photos.</h6>
                                 <div className='my-5 d-flex'>
                                    <CheckCheck/>
